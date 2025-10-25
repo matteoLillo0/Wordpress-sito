@@ -55,11 +55,11 @@ namespace {
     LogHandler::init_error_handler();
     class DUPX_Bootstrap
     {
-        const ARCHIVE_FILENAME   = '20251024_socciachebar_3884b7adf1c7aada9487_20251024085152_archive.zip';
-        const ARCHIVE_SIZE       = '45974265';
+        const ARCHIVE_FILENAME   = '20251025_angiolillo_863a0ccfb2a9b4ed2810_20251025065508_archive.zip';
+        const ARCHIVE_SIZE       = '80271424';
         const INSTALLER_DIR_NAME = 'dup-installer';
-        const PACKAGE_HASH       = '3884b7a-24085152';
-        const SECONDARY_PACKAGE_HASH = '77f4fd8-24085152';
+        const PACKAGE_HASH       = '863a0cc-25065508';
+        const SECONDARY_PACKAGE_HASH = 'f67b3d2-25065508';
         const VERSION            = '1.5.14';
         const MINIMUM_PHP_VERSION = '7.4';
         const ZIP_MODE_AUTO    = 0;
